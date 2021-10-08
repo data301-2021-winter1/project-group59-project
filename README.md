@@ -9,8 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
-
+Our dataset consists data of over 20000 chess games played on the online chess platform Lichess. The data contains information about how many turns were in each game, player’s ratings on Lichess, placement of opening moves, types of strategies that were used etc. The data was collected on September 9, 2021, and is accessible to the public domain. The creator of the data set has no goal on what should be analyzed in the data set, so it would seem that it was created for people to analyze with their own goals in mind. Because the chess games were collected from an online chess platform, I’m assuming the data collector received the data from the servers at Lichess.
 ## Describe your dataset in about 150-200 words
 
 {Add your stuff here}
